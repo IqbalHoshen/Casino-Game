@@ -1,0 +1,30 @@
+
+Player Name :iqbal		Age :20		Final Amount :440	Rating: 3 star
+
+Player Name :Tanim		Age :18		Final Amount :40	Rating: 4 star
+
+Player Name :Saif		Age :20		Final Amount :80	Rating: * star
+
+Player Name :Naim		Age :22		Final Amount :180	Rating: 5 star
+
+Player Name :Tareq		Age :25		Final Amount :90	Rating: 1 star
+
+Player Name :Ayman		Age :20		Final Amount :200	Rating: 5 star
+
+Player Name :Iqbal Saif		Age :23		Final Amount :70	Rating: 1 star
+
+Player Name :fahim		Age :24		Final Amount :286	Rating: 5 star
+
+Player Name :Salman		Age :44		Final Amount :35	Rating: 2 star
+
+Player Name :22		Age :22		Final Amount :78	Rating: 1 star
+
+Player Name :Nabila Tanjim		Age :28		Final Amount :95	Rating: 3 star
+
+Player Name :nahian		Age :22		Final Amount :78	Rating: 4 star
+
+Player Name :IQBAL		Age :33		Final Amount :70	Rating: 5 star
+
+Player Name :nahian		Age :456		Final Amount :55	Rating: 5 star
+
+Player Name :iqbal		Age :19		Final Amount :30	Rating: 5 star
